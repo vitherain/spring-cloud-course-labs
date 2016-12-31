@@ -6,9 +6,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class Lab4SubjectApplication {
+public class Lab4ArticleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Lab4SubjectApplication.class, args);
+		SpringApplication.run(Lab4ArticleApplication.class, args);
 	}
 }
